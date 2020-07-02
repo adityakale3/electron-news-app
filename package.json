@@ -1,0 +1,27 @@
+{
+  "name": "electron-news-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakale3/electron-news-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityakale3/electron-news-app/issues"
+  },
+  "homepage": "https://github.com/adityakale3/electron-news-app#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.10.4",
+    "electron": "^9.0.5",
+    "jquery": "^3.5.1",
+    "newsapi": "^2.4.0"
+  }
+}
